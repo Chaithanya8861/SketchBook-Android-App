@@ -7,7 +7,7 @@
 - Works offline
 
 ## Download APK
-[Click here to download](your-APK-link)
+[Click here to download](https://github.com/Chaithanya8861/SketchBook-Android-App/blob/main/app-debug.apk.zip)
 
 ## Tech Used
 - Android Studio
