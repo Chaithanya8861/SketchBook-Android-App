@@ -13,3 +13,9 @@
 - Android Studio
 - Java/Kotlin
 
+## 📸 App Preview
+
+![Screen1](screenshot1.jpeg)
+![Screen2](screenshot2.jpeg)
+![Screen3](screenshot3.jpeg)
+![Screen4](screenshot4.jpeg)
